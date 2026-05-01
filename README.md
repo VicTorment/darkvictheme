@@ -1,16 +1,22 @@
 # darkvictheme README
 
-## Working with Markdown
+## What is this about
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+I have made this theme mostly fo rmy self, but thought maybe other people might enjoy it too.
+my fokus has been on the colors for python and sql languages
+<!-- * Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets. -->
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+An image from a python script.
+![](https://raw.githubusercontent.com/VicTorment/div/refs/heads/main/th_preview.png)
 
-## For more information
+An image from a sql query.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+
+## Installing
+
+This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=franck-vict.victheme)  
+
+<!-- * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
+* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/) -->
 
 **Enjoy!**
