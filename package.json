@@ -1,9 +1,9 @@
 {
-  "name": "darkvictheme",
+  "name": "victheme",
   "publisher": "franck-vict",
   "displayName": "DarkVicTheme",
   "description": "a dark theme for studio code",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.118.0"
   },

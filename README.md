@@ -10,7 +10,7 @@ An image from a python script.
 ![](https://raw.githubusercontent.com/VicTorment/div/refs/heads/main/th_preview.png)
 
 An image from a sql query.
-
+![](https://raw.githubusercontent.com/VicTorment/div/refs/heads/main/sql_query.png)
 
 ## Installing
 
