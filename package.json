@@ -1,0 +1,21 @@
+{
+  "name": "darkvictheme",
+  "displayName": "DarkVicTheme",
+  "description": "a dark theme for studio code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.118.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DarkVicTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DarkVicTheme-color-theme.json"
+      }
+    ]
+  }
+}
